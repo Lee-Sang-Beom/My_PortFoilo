@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Paradigm Shift by HTML5 UP</title>
+		<title>PORTFOLIO - 이상범</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="description" content="" />
@@ -22,6 +22,7 @@
 					<section class="intro">
 						<header>
 							<h1>PORTFOLIO</h1>
+							<p>신입개발자인 제 자신을 소개합니다.</p>
 							<ul class="actions">
 								<li><a href="#first" class="arrow scrolly"><span class="label">Next</span></a></li>
 							</ul>
