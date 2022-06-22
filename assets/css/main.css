@@ -360,6 +360,13 @@ input, select, textarea {
 
 		}
 
+/* Next.js Img */
+	.nextimg{
+		width: 24px;
+		height: 24px;
+	}
+
+		
 /* Row */
 
 	.row {
@@ -3168,6 +3175,10 @@ input, select, textarea {
 		margin: 3rem 0;
 		padding-left: 0;
 	}
+		ul.feature-icons li span {
+			margin-left: 10px;
+			font-size: 20px;
+		}
 
 		ul.feature-icons:first-child {
 			margin-top: 0;
