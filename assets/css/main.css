@@ -202,6 +202,11 @@ input, select, textarea {
 		margin: 0 0 1.3rem 0;
 	}
 
+	p.introduce_p{
+		margin-bottom : 0.4em;
+		font-size : 12.5px;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: #000000;
 		font-family: "Raleway", Helvetica, sans-serif;
@@ -235,6 +240,13 @@ input, select, textarea {
 
 	h3 {
 		font-size: 0.975rem;
+	}
+
+	h3.divide {
+		margin-left: 1.5em;
+		margin-top : 2em;
+		margin-bottom : -2em;
+		color : blue;
 	}
 
 	h4 {
@@ -3297,9 +3309,20 @@ input, select, textarea {
 				text-align: right;
 			}
 
+
 				#wrapper section > footer ul.actions {
 					justify-content: flex-end;
 				}
+			
+			#wrapper section > header > p {
+				font-size : 13px;
+			}
+
+			#wrapper section > div.content > div.gallery > p {
+				font-size : 15px;
+				font-weight: bold;
+				width: 100%;
+			}
 
 		#wrapper > section {
 			position: relative;
