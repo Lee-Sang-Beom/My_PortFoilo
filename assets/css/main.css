@@ -328,6 +328,11 @@ input, select, textarea {
 
 		h3 {
 			font-size: 0.9rem;
+			
+		}
+
+		h3.divide{
+			margin-bottom:20px;
 		}
 
 		h4 {
