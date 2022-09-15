@@ -290,6 +290,10 @@ input, select, textarea {
 		p {
 			margin-bottom : 5px;
 		}
+
+		.enough_width_content{
+			display:none;
+		}
 	
 	}
 
