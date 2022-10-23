@@ -188,6 +188,7 @@ input, select, textarea {
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
 		color: #000000;
+		
 	}
 
 		a:hover {
