@@ -80,6 +80,7 @@ input, select, textarea {
 
 
 
+
 /* Basic */
 
 	@-ms-viewport {
@@ -343,6 +344,11 @@ input, select, textarea {
 		transform: rotateY(0deg);
 		z-index: 1; /*앞으로 이동*/
 	}
+
+	span.back-text{
+		width: 100%;
+		text-align: center;
+	}
 	
 	@media screen and (max-width: 736px) {
 
@@ -461,7 +467,7 @@ input, select, textarea {
 
 		}
 
-/* Next.js Img */
+/* skill Img */
 	.skill_img{
 		width: 24px;
 		height: 24px;
